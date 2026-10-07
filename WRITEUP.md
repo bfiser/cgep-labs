@@ -11,4 +11,4 @@ Run analyzed: `37645199282` (commit `5e9e101c4e349d08664dff5d677aad5e6dcbf6faa45
 
 ### Tamper test result
 - Original bundle: `verify-evidence.sh` reported verified OK, chain intact.
-- After uploading a one-byte-modified bundle to the same key: `FAIL: SHA mismatch`
+- After uploading a one-byte-modified bundle to the same key: `FAIL: SHA mismatch` 
