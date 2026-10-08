@@ -8,5 +8,9 @@ tfplan
 *.tfplan
 crash.log
 
+*.sig.bundle
+plan.json
+/receipt.json
+
 # OS noise
 .DS_Store
