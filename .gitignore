@@ -14,3 +14,4 @@ plan.json
 
 # OS noise
 .DS_Store
+.trestle-work/
